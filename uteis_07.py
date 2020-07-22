@@ -1,1 +1,0 @@
-'''Aula 22 Mundo 03 // Módulos e Pacotes // Continuação do [07.py]'''
